@@ -8,7 +8,7 @@ int main() {
     int i;
     printf("Enter information of students:\n");
 
-    // storing informationi
+    // storing information
     for (i = 0; i <5; ++i)
         {
         s[i].roll = i + 1;
